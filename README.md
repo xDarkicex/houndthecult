@@ -113,7 +113,7 @@ The bot implements sophisticated rate limiting to stay within Twitter's API cons
 
 ## License
 
-[Insert your license information here]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Acknowledgments
 
