@@ -1,0 +1,58 @@
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Project-specific files
+config/config.json
+data/*
+!data/.gitkeep
+logs/*
+!logs/.gitkeep
+*.log
+bot_state.json
+bot_state.json.bak
+bot_state.json.tmp
+user_prefs.json
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# deprecated files
+hound.py
+houndthecult_bot_original_backup.py
+houndthecult_modified.py
